@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube AI Chatbot",
+  "short_name": "YouTubeAIChatbot",
+  "version": "1.0",
+  "description": "Ask questions about the current YouTube video.",
+  "permissions": ["tabs", "activeTab"],
+  "host_permissions": ["https://www.youtube.com/*"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "assets/icon.png"
+  },
+  "icons":{
+    "32":"assets/icon.png"
+  }
+}

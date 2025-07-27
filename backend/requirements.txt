@@ -1,0 +1,9 @@
+dotenv
+# pytube
+# langchain-openai
+# langchain
+# langchain-community
+# langchain-core
+flask
+flask-cors
+
